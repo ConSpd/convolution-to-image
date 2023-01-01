@@ -10,7 +10,7 @@ Using the conv2() function
 ### Third method
 Using the imfilter() function
 
-### Fourth method\
+### Fourth method
 * Padding the image & kernel. 
 * Converting to Frequency domain.*
 * Multiplying the 2 images.
